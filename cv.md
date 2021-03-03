@@ -3,9 +3,9 @@
 ---
 ### Contacts ###
 
-- Email: NichiporWoopWoop@gmail.com
-- Phone: +375293370368
-- Discord: zoidbergWoopWoop\#7534
+- **Email**: <NichiporWoopWoop@gmail.com>
+- **Phone**: <+375293370368>
+- **Discord**: <zoidbergWoopWoop\#7534>
 ---
 ### About me ###
 
