@@ -5,7 +5,6 @@
 
 - **Email**: <NichiporWoopWoop@gmail.com>
 - **Phone**: +375293370368
-- **Discord**: zoidbergWoopWoop7534
 ---
 ### About me ###
 
