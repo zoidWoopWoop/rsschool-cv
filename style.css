@@ -9,13 +9,14 @@ h1,h2,h3,p,img{
 }
 a{
     text-decoration: none;
+    color:black;
 }
 body{
     display: flex;
     justify-content: center;
     background: radial-gradient(circle farthest-corner at 100px 50px, #FBF2EB, #352A3B);
 }
-wrapper{
+.container{
     display: flex;
     justify-content: center;
     background-color: whitesmoke;
@@ -32,7 +33,7 @@ main{
     flex-direction: column;
     display: block;
     margin: 15px 0 45px 30px;
-    border-top: 1px solid black;
+    border-top: 1px solid grey;
 }
 aside{
     display: flex;
@@ -40,12 +41,9 @@ aside{
     width: 380px;
     order: -1;    
 }
-.aside-avatar{
-    margin-left: 40px;
-    margin-bottom: 30px;
-}
 .aside-avatar img{
     border-radius: 4px;
+    margin-left: 40px;
 }
 .aside-contacts{
     border-top: 1px solid grey;
